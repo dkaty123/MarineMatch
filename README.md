@@ -8,5 +8,5 @@
 
 
 # Awards
- Winner of the 2024 Youth Climate Activism Award and Ingenious+ Innovation Challenge (Regional Award)
+ Winner of the 2024 Youth Climate Activism Award and Ingenious+ Innovation Challenge (Regional Award).
  Winner of multiple grants inlcluding the GenSea Ocean Grant and OceanWise Grant
