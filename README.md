@@ -106,7 +106,7 @@ With support from:
 Help protect our oceans — one match at a time.
 
 <img width="902" height="628" alt="image" src="https://github.com/user-attachments/assets/d3da9e44-1b5d-4601-8093-34b04b3aea56" />
-<img width="904" height="888" alt="image" src="https://github.com/user-attachments/assets/ef024f4c-fd05-4d94-b6a9-48bab0759489" />
+<img width="704" height="688" alt="image" src="https://github.com/user-attachments/assets/ef024f4c-fd05-4d94-b6a9-48bab0759489" />
 
 
 
