@@ -109,10 +109,6 @@ Help protect our oceans — one match at a time.
 
 <img width="1868" height="1228" alt="image" src="https://github.com/user-attachments/assets/8306bbee-6f70-4676-8845-28348c73838f" />
 
-
- ![Screenshot 2024-10-15 181958](https://github.com/user-attachments/assets/d3e09aca-7410-4237-b79c-c9e52afcdef2)
-
-
 # Awards
  Winner of the 2024 Youth Climate Activism Award, BowSeat Ocean Awarness Contest
  Winner of multiple grants inlcluding the GenSea Ocean Grant and OceanWise Grant
