@@ -17,7 +17,7 @@
 
 MarineMatch is a cross-platform initiative designed to educate, empower, and engage users in marine conservation.  
 
-It uses **image recognition** powered by computer vision to identify over **600+ marine species**, providing insights into **overfishing**, **plastic pollution**, and biodiversity loss.
+It uses **image recognition** powered by computer vision to identify over **60+ marine species**, providing insights into **overfishing**, **plastic pollution**, and biodiversity loss.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/296a8cba-408e-4445-b823-84ae32a33101" />
 
@@ -104,14 +104,6 @@ With support from:
 ## 🐬 Join the Movement
 
 Help protect our oceans — one match at a time.
-
-
-
-
- MarineMatch is an app built in Android Studio in the Java language which uses image classification for users to identify 60+ different types of ocean animals and fish species
-
- The core functionality of MarineMatch is its image recognition algorithm, utilizing a convolutional neural network (CNN). When a user takes a photo of a fish, the app processes the image almost instantaneously, identifying the species with high accuracy. The app then 
- provides information about the species, including its conservation status, helping fishers make informed decisions.
 
  ![Screenshot 2024-10-15 181958](https://github.com/user-attachments/assets/d3e09aca-7410-4237-b79c-c9e52afcdef2)
 
